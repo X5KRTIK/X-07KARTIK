@@ -17,7 +17,7 @@
 
 😈 pip2 install mechanize
 
-😈 git clone https://github.com/X-07KARTIK
+😈 git clone https://github.com/X5KRTIK/X-07KARTIK 
 
 😈 ls
 
